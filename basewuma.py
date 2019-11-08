@@ -12,3 +12,6 @@ for i in range(0,len(allbin),8):
 # Usage:
 # when not know base64 encode table,we can send ans to server,can dump base64 table
 print base64.b64encode(ans)
+
+for i in ans:
+    print ord(i),

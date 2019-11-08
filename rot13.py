@@ -22,5 +22,5 @@ def rot13(s):
     return flag
 
 if __name__ == "__main__":
-    s = 'MzkuM3gvMUAwnzuvn3cgozMlMTuvqzAenJchMUAeqzWenzEmLJW9'
+    s = 'riny'
     print rot13(s)
